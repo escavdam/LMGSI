@@ -18,3 +18,8 @@ Lo interesante de IDEs como vscode es que son programas extensibles a nuestras n
 - `Shift+arriba/abajo`: Seleccionar linea
 - `Alt+arriba/abajo`: Mover linea o seleccion
 
+## Extensiones
+- [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock), para cambiar el color de la barra superior de vscode, muy util si necesitamos trabajar en diferentes proyectos donde diferenciar rápidamente cual es cual.
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer), para levantar un servidor local y poder ver los cambios en tiempo real.
+- [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced), para poder ver el resultado de un archivo markdown en tiempo real.
+- [All in one markdown](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one), para añadir atajos de teclado, nuevos elementos y exportacion de html, pdf o imagen de archivos md.
