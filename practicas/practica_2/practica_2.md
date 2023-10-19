@@ -10,3 +10,6 @@ Para ello, debes seguir los siguientes pasos:
 4. Copia tus posts convertidos a **html** de la práctica 1 en la carpeta `html`.
 5. Copia tus imágenes de la práctica 1 en la carpeta `img`.
 6. Actualiza el archivo `index.md` e `index.html` con los enlaces a tus posts.
+7. Actualiza el repositorio con un commit de tus cambios.
+
+> Este último paso seguramente nos de algún problema, ya que alguien habrá podido actualizar el repositorio antes que nosotros. Para solucionarlo, deberemos hacer un `pull` antes de hacer el `push`.
