@@ -43,14 +43,31 @@ La etiqueta `<span>` se utiliza para definir un contenedor de línea genérico.
 Y aun más útil si le añadimos un identificador:
 
 ```html
-<p> Mi nombre es <span id="nombre"> Juan </span> y tengo <span id="edad"> 20 </span> años. </p>
+<p> Para hacer tortilla, necesitas <span id="huevos"> huevos </span>, <span id="aceite"> aceite </span> y un poco de <span id="sal"> sal</span>. </p>
 ```
 
 Ahora podemos acceder al contenido de cada contenedor de línea desde JavaScript:
 
 ```js
-let nombre = document.getElementById("nombre").innerHTML;
-let edad = document.getElementById("edad").innerHTML;
+let huevos = document.getElementById("huevos");
+let aceite = document.getElementById("aceite");
+let sal = document.getElementById("sal");
+```
+
+Y tambien editar su estilo en CSS:
+
+```css
+#huevos {
+    color: red;
+}
+
+#aceite {
+    color: green;
+}
+
+#sal {
+    color: blue;
+}
 ```
 
 Tanto `<div>` como `<span>` son contenedores genéricos, nos ayudan a poder dividir el contenido de nuestra página en secciones, pero no tienen ningún significado especial, por lo que no son muy útiles para los buscadores.
