@@ -22,6 +22,15 @@ El atributo `type` define el tipo de campo de entrada de datos. Los valores más
 - `radio`: Campo de botón de opción.
 - `submit`: Campo de envío de formulario.
 
+
+### Validación en el cliente
+
+El atributo type no solo cambia el aspecto del campo de entrada de datos, añade también validación en el cliente.
+
+Por ejemplo, si definimos un campo de entrada de datos de tipo `email`, el navegador nos mostrará un mensaje de error si el valor introducido no es un correo electrónico válido.
+
+Esto es muy útil, ahorra trabajo al servidor comprobando ciertos datos antes de enviar el formulario, asi el usuario no debe esperar a la respuesta del mismo para saber si hay un error, además, aliviamos nuestros servidores.
+
 ## `<label>`
 
 La etiqueta `<label>` se utiliza para definir una etiqueta de texto para un campo de entrada de datos.
