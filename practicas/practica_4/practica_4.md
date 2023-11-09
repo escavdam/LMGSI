@@ -1,5 +1,7 @@
 # Practica 4
 
+Deadline: Domingo 19 de Noviembre
+
 Siguiendo lo aprendido en el ejercicio de clase, crea una aplicación que tenga las siguientes funcionalidades:
 
 - Crea una función que copie la hora actual al portapapeles, investiga un poco sobre el objeto `navigator` para hacerlo.
