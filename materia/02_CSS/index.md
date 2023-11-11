@@ -10,10 +10,10 @@ Los pilares sobre los que se sustenta CSS son los selectores, las propiedades y 
 
 Las unidades nos permiten definir tamaños y distancias. Veremos los tipos de unidades que existen y como usarlas.
 
-## [Pseudo-clases](12_pseudo-clases.md)
+## [Pseudo-clases](12_pseudoclases.md)
 
 Las pseudo-clases nos permiten seleccionar elementos en función de su estado. Veremos las pseudo-clases más comunes y como usarlas.
 
-## [Pseudo-elementos](13_pseudo-elementos.md)
+## [Pseudo-elementos](13_pseudoelementos.md)
 
 Los pseudo-elementos nos permiten seleccionar elementos en función de su posición. Veremos los pseudo-elementos más comunes y como usarlos.
