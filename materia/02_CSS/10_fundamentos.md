@@ -279,35 +279,6 @@ Analizando sus propiedades en la consola:
 
 Podemos comprobar que el elemento tiene un borde de 1px, un padding de 10px y un margin de 20px.
 
-### Unidades de medida
-
-Las unidades de medida nos permiten definir valores numéricos para las propiedades.
-
-En CSS tenemos diferentes unidades de medida, unas pueden ser relativas y otras absolutas.
-
-Las unidades relativas se calculan en base a otras propiedades, estas son:
-
-- `em`: Toma como referencia el tamaño de la fuente del elemento padre.
-- `rem`: Toma como referencia el tamaño de la fuente del elemento raíz (normalmente el `html`).
-- `vw`: Toma como referencia el ancho de la ventana.
-- `vh`: Toma como referencia el alto de la ventana.
-- `%`: Toma como referencia el tamaño del elemento padre.
-- `vmin`: Toma como referencia el tamaño de la ventana, pero usa el menor de los dos valores (ancho o alto).
-- `vmax`: Toma como referencia el tamaño de la ventana, pero usa el mayor de los dos valores (ancho o alto).
-- `ex`: Toma como referencia el tamaño de la letra `x` minúscula.
-- `ch`: Toma como referencia el tamaño de la letra `0` (cero).
-- `fr`: Toma como referencia el espacio disponible que queda en el contenedor.
-
-Las unidades absolutas no se calculan en base a otras propiedades, estas son valores fijos:
-
-- `px`: Píxeles.
-- `cm`: Centímetros.
-- `mm`: Milímetros.
-- `in`: Pulgadas.
-- `pt`: Puntos.
-- `pc`: Picas.
-- `q`: Cuartos de milímetro.
-
 ### Pseudoclases
 
 Las pseudoclases nos permiten seleccionar elementos en base a su estado, por ejemplo, si el ratón está encima de un elemento, si un elemento está seleccionado, etc.
@@ -334,24 +305,6 @@ a{
 a:hover {
     background: red;
     color: black;
-}
-```
-
-### Pseudoelementos
-
-Los pseudoelementos nos permiten seleccionar partes de un elemento, por ejemplo, el primer párrafo de un elemento `div`.
-
-Los pseudoelementos disponibles son:
-
-- `::after`: Selecciona la parte de después de un elemento.
-- `::before`: Selecciona la parte de antes de un elemento.
-- `::first-letter`: Selecciona la primera letra de un elemento.
-- `::first-line`: Selecciona la primera línea de un elemento.
-- `::selection`: Selecciona el texto seleccionado por el usuario.
-
-```css
-p::first-letter {
-  font-size: 300%;
 }
 ```
 
