@@ -1,0 +1,24 @@
+{
+  "name": "lmgsi",
+  "version": "1.0.0",
+  "description": "Repositorio principal para la materia de Lenguaje de Marcas y Sistemas de Gestion de la Información.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev materia",
+    "build": "vitepress build materia"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/escavdam/LMGSI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/escavdam/LMGSI/issues"
+  },
+  "homepage": "https://github.com/escavdam/LMGSI#readme",
+  "dependencies": {
+    "vitepress": "^1.0.0-rc.25"
+  }
+}
