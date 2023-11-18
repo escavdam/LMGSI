@@ -6,14 +6,20 @@ En esta asignatura estudiaremos diferentes lenguajes de marcado, como Markdown o
 
 Los ejercicios que hacemos en clase y las prácticas que debes entregar.
 
-## 🐤 [Introduccion](01_Introduccion/index.md)
+## 🐤 [Introduccion](./01_Introduccion/01_Introduccion.md)
 
-Comenzaremos usando Markdown, un lenguaje de marcado ligero que nos permitirá escribir documentos de una forma sencilla. Este lenguaje de marcado es muy utilizado en el mundo de la programación, ya que nos permite escribir documentación, blogs y contenido para páginas web rápidamente. También veremos otros lenguajes ligeros como Mermaid o Marp.
+Comenzaremos usando **Markdown**, un lenguaje de marcado ligero que nos permitirá escribir documentos de una forma sencilla. 
 
-## 🏗️ [HTML](01_HTML/)
+Este lenguaje de marcado es muy utilizado en el mundo de la programación, ya que nos permite escribir documentación, blogs y contenido para páginas web rápidamente. 
 
-HTML es el lenguaje de marcado estándar para crear páginas web. Nos permite definir la estructura de una página y su contenido. En esta sección veremos los elementos básicos de HTML y como podemos darle usarlos para separar de forma efectiva nuestro contenido.
+También veremos otros lenguajes ligeros como **Mermaid** o **Marp**.
 
-## 🖌️ [CSS](02_CSS/)
+## 🏗️ [HTML](./02_HTML/index.md)
 
-CSS es un lenguaje de estilos que nos permite dar formato a nuestras páginas web. En esta sección veremos los elementos básicos de CSS y como podemos darle estilo a nuestras páginas web.
+**HTML** es el lenguaje de marcado estándar para crear páginas web, es el lenguaje que usamos para definir la estructura de una página y su contenido, pudiendo añadir texto, imágenes, enlaces, y agrupandolos en diferentes contenedores.
+
+## 🖌️ [CSS](./03_CSS/index.md)
+
+CSS es un lenguaje de estilos que nos permite dar formato a nuestras páginas web. Nos sirve para definir el aspecto de nuestra aplicación, pudiendo aspectos de estilo como el color y su tamaño, pero también nos deja alterar la posición de los elementos.
+
+

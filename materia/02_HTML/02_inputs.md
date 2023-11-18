@@ -99,7 +99,17 @@ La etiqueta `<form>` se utiliza para definir un formulario.
 </form>
 ```
 
-Esto nos sirve para agrupar los elementos de entrada de datos y enviarlos todos juntos.
+Esto nos sirve para agrupar los elementos de entrada de datos y enviarlos todos juntos, además, nos permite definir un método de envío y una URL de destino.
+
+```html
+<form method="post" action="https://www.mibackendfavorito.com/login">
+    <label for="nombre"> Nombre: </label>
+    <input type="text" id="nombre">
+    <label for="comentario"> Contraseña: </label>
+    <input type="password" id="contraseña">
+    <button> Enviar </button>
+</form>
+```
 
 ## `<fieldset>`
 

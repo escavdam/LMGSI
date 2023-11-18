@@ -6,7 +6,7 @@ HTML fue creado en 1990 por Tim Berners-Lee, un científico del CERN (Organizaci
 
 Una de las características de HTML es que permite incluir en un documento texto, imágenes, sonidos, vídeos, etc. Además, HTML permite definir la estructura de una página web, es decir, permite definir qué es un título, un párrafo, una lista, etc. HTML no define cómo se deben mostrar estos elementos, sino que indica qué significado tienen. Por ejemplo, HTML permite definir que un texto es un título, pero no indica cómo se debe mostrar ese título (con un tamaño de letra mayor, en negrita, etc.). La apariencia de los elementos se define mediante hojas de estilo.
 
-[El primer website creado](http://info.cern.ch/hypertext/WWW/TheProject.html)
+[El primer website creado](http://info.cern.ch/hypertext/WWW/TheProject.html) sigue estando disponible en la web, solo utiliza texto y enlaces, pero es un buen ejemplo de lo que se podía hacer en 1990.
 
 # Estructura de un elemento HTML
 Un elemento HTML está formado por una etiqueta de apertura, el contenido del elemento y una etiqueta de cierre, diferenciada por una barra inclinada (/).
