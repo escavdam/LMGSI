@@ -1,4 +1,9 @@
+# Markdown
+
+Markdown es un lenguaje de marcado ligero creado en 2004, y que se utiliza para dar formato a un texto plano. Es un lenguaje de marcado minimalista, que se centra en la legibilidad y la facilidad de uso. Muy usado entre desarrolladores de cualquier tipo, ya que nos permite escribir documentación, blogs y contenido para páginas web rápidamente.
+
 # Crear archivos markdown
+
 Para crear archivos en markdown no es necesario ningún editor especial, podemos crearlos con cualquier editor de texto plano.
 Solo debemos crear un archivo con la extensión .md, .markdown o .mdown.
 

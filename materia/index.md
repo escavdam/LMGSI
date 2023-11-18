@@ -16,10 +16,10 @@ También veremos otros lenguajes ligeros como **Mermaid** o **Marp**.
 
 ## 🏗️ [HTML](./02_HTML/index.md)
 
-**HTML** es el lenguaje de marcado estándar para crear páginas web, es el lenguaje que usamos para definir la estructura de una página y su contenido, pudiendo añadir texto, imágenes, enlaces, y agrupandolos en diferentes contenedores.
+HTML es el lenguaje de marcado estándar para crear páginas web, es el lenguaje que usamos para **definir la estructura de una página, sus elementos y su contenido**, pudiendo añadir texto, imágenes, enlaces, y agrupandolos en diferentes contenedores.
 
 ## 🖌️ [CSS](./03_CSS/index.md)
 
-CSS es un lenguaje de estilos que nos permite dar formato a nuestras páginas web. Nos sirve para definir el aspecto de nuestra aplicación, pudiendo aspectos de estilo como el color y su tamaño, pero también nos deja alterar la posición de los elementos.
+CSS es un **lenguaje de estilos** que nos permite dar formato a nuestras páginas web. Nos sirve para definir el aspecto de nuestra aplicación, pudiendo aspectos de estilo como el color y su tamaño, pero también nos deja alterar la posición de los elementos.
 
 
