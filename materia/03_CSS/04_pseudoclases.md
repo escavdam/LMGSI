@@ -1,4 +1,8 @@
-### Pseudoclases
+# Pseudoclases
+
+[MDN Introduccion a pseudoclases y pseudoelementos](https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements)
+
+[MDN Pseudoclases](https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-classes)
 
 Las pseudoclases nos permiten seleccionar elementos en base a su estado, por ejemplo, si el ratón está encima de un elemento, si un elemento está seleccionado, etc.
 
@@ -15,6 +19,8 @@ Las pseudoclases disponibles son:
 - `:focus`: Selecciona un elemento cuando tiene el foco, por ejemplo, un `input` cuando hacemos click en él.
 - `:hover`: Selecciona un elemento cuando el ratón está encima de él.
 - `:in-range`: Selecciona un elemento cuando está dentro de un rango, por ejemplo, un `input` de tipo `number` cuando su valor está dentro del rango especificado.
+
+## 
 
 Las pseudoclases son muy utiles para poder seleccionar elementos en base a su estado, por ejemplo, para cambiar el color de un enlace cuando el ratón está encima de él:
 

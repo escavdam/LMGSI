@@ -1,5 +1,7 @@
 # Pseudoelementos
 
+[MDN Pseudoelementos](https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-elements)
+
 Los pseudoelementos nos permiten seleccionar partes de un elemento, por ejemplo, el primer párrafo de un elemento `div`.
 
 Los pseudoelementos disponibles son:
