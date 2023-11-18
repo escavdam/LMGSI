@@ -11,11 +11,8 @@ Estas unidades pueden ser relativas o absolutas.
 Las unidades absolutas son unidades que no dependen de otras propiedades, estas son:
 
 - `px`: Píxeles, es la unidad más común, un píxel es un punto en la pantalla.
-- `cm`: Centímetros, es una unidad de medida física, un centímetro es una centésima parte de un metro.
-- `mm`: Milímetros, es una unidad de medida física, un milímetro es una milésima parte de un metro.
-- `in`: Pulgadas, es una unidad de medida física, una pulgada es una unidad de longitud que equivale a 2,54 centímetros.
+- `cm`, `mm`, `pc` e `in`: Centímetros, milímetros, picas y pulgadas, son unidades de medidas físicas.
 - `pt`: Puntos, es una unidad de medida física, un punto es una unidad de longitud que equivale a 1/72 de pulgada.
-- `pc`: Picas, es una unidad de medida física, una pica es una unidad de longitud que equivale a 12 puntos.
 - `q`: Cuartos de milímetro, es una unidad de medida física, un cuarto de milímetro es una cuarta parte de un milímetro (0,248 mm).
 
 ### Pixel
@@ -40,30 +37,16 @@ La pica viene de la época en la que se usaban tipos móviles para imprimir, una
 
 Las unidades relativas son unidades que dependen de otras propiedades, estas son:
 
-- `em`: Toma como referencia el tamaño de la fuente del elemento padre.
+- `%`: Porcentaje, toma como referencia el marco o contexto actual, sus valores no tienen por qué ir de cero a cien, se pueden usar medidas mayores.
 - `rem`: Toma como referencia el tamaño de la fuente del elemento raíz (normalmente el `html`).
 - `vw`: Toma como referencia el ancho de la ventana.
 - `vh`: Toma como referencia el alto de la ventana.
-- `%`: Toma como referencia el tamaño del elemento padre.
 - `vmin`: Toma como referencia el tamaño de la ventana, pero usa el menor de los dos valores (ancho o alto).
 - `vmax`: Toma como referencia el tamaño de la ventana, pero usa el mayor de los dos valores (ancho o alto).
-- `ex`: Toma como referencia el tamaño de la letra `x` minúscula.
+- `em`: Toma como referencia el tamaño de la letra `M`.
 - `ch`: Toma como referencia el tamaño de la letra `0` (cero).
+- `ex`: Toma como referencia el tamaño de la letra `x` minúscula.
 - `fr`: Toma como referencia el espacio disponible que queda en el contenedor.
-
-# em
-
-La unidad `em` toma como referencia el tamaño de la fuente del elemento padre. Si el elemento padre no tiene un tamaño de fuente definido, entonces toma como referencia el tamaño de la fuente del elemento abuelo, y así sucesivamente.
-
-```css
-p {
-  font-size: 16px;
-}
-
-p span {
-  font-size: 0.5em; /* 8px */
-}
-```
 
 ### Unidades relativas a su contenedor
 
