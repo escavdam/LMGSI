@@ -54,7 +54,7 @@ Podemos crear links a otras páginas web, o a otros archivos markdown.
 
 [Enlace a Google](https://www.google.es)
 
-[Enlace a otro archivo markdown](01_Introduccion.md)
+[Enlace a otro archivo markdown](./01_Mermaid.md)
 
 [Enlace a una seccion de este mardown](#sintáxis)
 

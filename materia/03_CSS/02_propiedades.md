@@ -167,4 +167,4 @@ p {
 }
 ```
 
-![padding, border y margin](./img/padding_border_margin.png)
+![padding, border y margin](./images/border_margin_padding.png)

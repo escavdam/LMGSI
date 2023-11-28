@@ -61,3 +61,4 @@ De la misma manera, un elemento `<span>` no ocupará todo el ancho disponible, a
 ```html
 <p> El planeta <span> Marte </span> es el cuarto planeta del sistema solar. </p>
 ```
+

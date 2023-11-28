@@ -6,7 +6,7 @@ En esta asignatura estudiaremos diferentes lenguajes de marcado, como Markdown o
 
 Los ejercicios que hacemos en clase y las prácticas que debes entregar.
 
-## 🐤 [Introduccion](./01_Introduccion/01_Introduccion.md)
+## 🐤 [Markdown](./01_Markdown/index.md)
 
 Comenzaremos usando **Markdown**, un lenguaje de marcado ligero que nos permitirá escribir documentos de una forma sencilla. 
 
