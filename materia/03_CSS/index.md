@@ -63,3 +63,15 @@ Los frameworks CSS nos permiten crear páginas web de forma más rápida y senci
 Puedes aprender sobre [Picocss](98_picocss.md) ya!
 
 *Conceptos*: `Bootstrap`, `Semantic UI`, `Picocss`, `Bulma`, `Tailwind`, `Materialize`
+
+## [BEM](10_BEM.md)
+
+BEM nos propone una nomenclatura para nombrar clases en CSS.
+
+*Conceptos*: `Block`, `Element`, `Modifier`
+
+## [Medidas del navegador](11_pantalla_ventana_documento.md)
+
+Nuestro navegador nos proporciona información sobre el tamaño de la ventana del navegador, el tamaño del documento, y el tamaño de la pantalla que estamos usando, entre muchos otros.
+
+*Conceptos*: `screen.width`, `screen.height`, `window.outerWidth`, `window.outerHeight`, `window.innerWidth`, `window.innerHeight`, `document.documentElement.clientWidth`, `document.documentElement.clientHeight`

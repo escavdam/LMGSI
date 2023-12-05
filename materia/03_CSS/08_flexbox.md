@@ -3,6 +3,7 @@
 Flexbox es un modelo de diseño que nos permite crear layouts flexibles. Es decir, layouts que se adaptan a diferentes tamaños de pantalla y dispositivos.
 
 [MDN](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Flexible_Box_Layout/Conceptos_Basicos_de_Flexbox)
+
 [Guia / PDF tamaño poster](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Contenedor flex
@@ -54,6 +55,8 @@ O en columna, pero en orden inverso:
   flex-direction: column-reverse;
 }
 ```
+
+Cuando tenemos `flex-direction` configurado como `row`, el eje principal es el horizontal, y el eje secundario es el vertical. Cuando tenemos `flex-direction` configurado como `column`, el eje principal es el vertical, y el eje secundario es el horizontal. Esto es importante tenerlo en cuenta a la hora de usar `justify-content` y `align-items`.
 
 ### flex-wrap
 
