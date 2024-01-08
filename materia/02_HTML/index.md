@@ -32,8 +32,18 @@ Los elementos de bloque y los elementos inline se comportan de forma diferente e
 
 *Conceptos:* `Bloques`, `Inline`
 
-## 📝 [Propiedad data](05-propiedad_data.md)
+## 📝 [Propiedad data](05_propiedad_data.md)
 
 Esta propiedad nos permite almacenar información adicional sobre el elemento, y poder acceder a ella desde JavaScript o CSS.
 
 *Conceptos:* `data-*`, `getAttribute()`
+
+## [Formularios](06_form.md)
+
+Los formularios nos permiten enviar información al servidor. Es la mejor forma de usar inputs para interactuar con el usuario.
+
+*Conceptos:* `<form>`, `<input>`, `<button>`, `<label>`, `<textarea>`, `<select>`, `<option>`, `method`, `action`
+
+## [Validaciones](07_validacion_datos.md)
+
+Las validaciones desde el lado del cliente nos permiten comprobar que los datos introducidos por el usuario son correctos antes de enviarlos al servidor.
